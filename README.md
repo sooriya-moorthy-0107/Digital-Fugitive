@@ -5,8 +5,8 @@
 
 <br>
 
-<!-- Cute Thief, Police & Under Construction Animation Preview -->
-![Digital Fugitive Under Construction Chase](assets/images/under_construction.svg)
+<!-- Cute Thief, Police & Under Construction GIF Animation -->
+![Digital Fugitive Under Construction Chase](assets/images/under_construction.gif)
 
 <br>
 
@@ -324,7 +324,8 @@ Digital-Fugitive/
 │   ├── audio/
 │   │   └── background_siren.wav      # Atmospheric background audio
 │   └── images/
-│       ├── under_construction.svg    # Cute chase & under construction animation
+│       ├── under_construction.gif    # Animated GIF: Thief, Police & Under Construction
+│       ├── under_construction.svg    # Vector SVG animation source
 │       ├── police_bg.jpg             # Dynamic tactical background
 │       ├── thief.png                 # Fugitive entity icon
 │       ├── police.png                # Detective unit icon
